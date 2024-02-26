@@ -8,7 +8,7 @@ st.set_page_config(page_title='Data Visualizer',
                    page_icon='🔍')
 
 # Title
-st.title(' 🔍 Data Visualizer by PAVAN KUNCHAM')
+st.title(' 🔍 Data Visualizer by PAVAN')
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Specify the folder where your CSV files are located
